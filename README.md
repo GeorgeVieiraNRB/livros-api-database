@@ -1,5 +1,10 @@
 # livros-api-database
 Pequeno projeto para acessar um banco de dados a partir de uma api no Javascript.
+# Necessário ter instalado:
+- Node.js
+- NPM
+- Visual Studio Code
+- MySql
 # Para usar:
 1. Rode o arquivo dbapilivros.sql ( mantenha a senha do usuário como "password". Caso precise mudar, use o comando: ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password' no MySql)
 2. Descompacte o arquivo node_modules.rar
